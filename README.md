@@ -11,5 +11,5 @@ Text editor: [sublime text](https://www.sublimetext.com/3)
 3. Start server and mysql.
 
 # Web App is visible
-1. localhost:8000/
+1. web site is visible at this url --  localhost:8000/
 2. For data base access -- localhost/phpmyadmin in the browser
